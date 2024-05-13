@@ -1,3 +1,4 @@
+# Note: Taken from Class Project
 # Rust Programming Assignment: Pico Data Analysis Tool
 
 ## Motivation
